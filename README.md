@@ -39,13 +39,8 @@ Download and integrate the JSON file into your application:
 
 Use this JSON data to dynamically calculate VAT based on customer location.
 
-## SEO Optimized Keywords
+This dataset is currently in use on the payment page of [whitestudio.team](https://whitestudio.team/), which provides support for the [Easy Form Builder](https://wordpress.org/plugins/easy-form-builder/) plugin.
 
-- Global VAT rates 2025
-- VAT rates for digital products
-- VAT JSON dataset
-- Digital products taxation 2025
-- International VAT rates JSON
 
 ## Contributions
 
@@ -54,4 +49,11 @@ Contributions are welcome! Feel free to submit pull requests or open issues to e
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
+- Global VAT rates 2025
+- VAT rates for digital products
+- VAT JSON dataset
+- Digital products taxation 2025
+- International VAT rates JSON
 
