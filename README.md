@@ -4,6 +4,8 @@ This repository contains a comprehensive JSON dataset detailing Value Added Tax 
 
 ## Overview
 
+This dataset was generated using ChatGPT and DeepSeek AI models to ensure comprehensive and accurate coverage.
+
 Accurate VAT calculation is essential for digital businesses selling globally. This JSON file provides standardized VAT rates for each country and includes regional variations for countries with multiple jurisdictions (e.g., United States, Canada, and Brazil).
 
 ## Features
