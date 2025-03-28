@@ -1,7 +1,7 @@
 const vatRates = {
   VAT_rates: {
     US: {
-      standard_rate: null,
+      standard_rate: 0,
       regions: [
         { rate: 4.0, name: "Alabama", iso: "AL" },
         { rate: 0.0, name: "Alaska", iso: "AK" },
@@ -82,6 +82,7 @@ const vatRates = {
         { rate: 18.0, name: "Bahia", iso: "BA" }
       ]
     },
+
     AU: { standard_rate: 10.0, regions: null },
     DE: { standard_rate: 19.0, regions: null },
     FR: { standard_rate: 20.0, regions: null },
@@ -108,10 +109,10 @@ const vatRates = {
     SY: { standard_rate: 0.0, regions: null },
     KP: { standard_rate: 0.0, regions: null },
     CU: { standard_rate: 0.0, regions: null },
-    BH: { standard_rate: 0.0, regions: null },
+    BH: { standard_rate: 10.0, regions: null },
     OM: { standard_rate: 0.0, regions: null },
     KY: { standard_rate: 0.0, regions: null },
-    BS: { standard_rate: 0.0, regions: null },
+    BS: { standard_rate: 10.0, regions: null },
     HK: { standard_rate: 0.0, regions: null },
     MO: { standard_rate: 0.0, regions: null },
     SE: { standard_rate: 25.0, regions: null },
